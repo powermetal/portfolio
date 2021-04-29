@@ -1,0 +1,48 @@
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.btn {
+    background-color: tomato;
+    padding: 1rem;
+    border: none;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    color: white;
+    margin-right: 1rem;
+    border-radius: 7px;
+}
+
+.btn:hover {
+    background-color: rgb(248, 111, 87);
+}
+
+.btn span {
+    margin-left: 0.5rem;
+    font-size: 1.2rem;
+}
+
+.btn .MuiSvgIcon-root{
+    font-size: 2rem;
+}
+
+@media screen and (max-width: 1150px) {
+    .btn span {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .btn span {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .btn span {
+        display: none;
+    }
+}

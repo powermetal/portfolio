@@ -1,0 +1,25 @@
+.footer {
+    background-color: #393939;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.footer a {
+    display: flex;
+    align-items: center;
+    margin: 0 1rem;
+}
+
+.footer a .MuiSvgIcon-root {
+    font-size: 2rem;
+    margin: 0.5rem;
+}
+
+@media screen and (max-width: 768px) {
+    .footer {
+        flex-direction: column;
+    }
+}

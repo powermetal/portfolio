@@ -1,0 +1,15 @@
+.keywords {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 350px;
+}
+
+.keywords li {
+    padding: 0.5rem 1rem;
+    list-style: none;
+    background-color: #393939;
+    border-radius: 7px;
+    color: white;
+    margin: 0 0.5rem 0.5rem 0;
+    float: left;
+}

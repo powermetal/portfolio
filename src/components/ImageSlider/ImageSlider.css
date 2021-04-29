@@ -1,0 +1,59 @@
+.slider {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    position: relative;
+}
+
+.slider__image {
+    object-fit: cover;
+    border-radius: 7px;
+    height: 100%;
+}
+
+.slider .MuiSvgIcon-root {
+    font-size: 5rem;
+    color: rgb(179, 179, 179);
+    cursor: pointer;
+    z-index: 10;
+    position: absolute;
+    margin: 10px;
+}
+
+.slider .MuiSvgIcon-root:hover {
+    color: #ffffff;
+}
+
+.slide {
+    transition-duration: 1s ease;
+    height: 100%;
+}
+
+.slide.active {
+    opacity: 1;
+    transition-duration: 1s;
+    transform: scale(1.08)
+}
+
+.right-arrow {
+    right: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .slider {
+        display: flex;
+        align-items: center;
+        width: 90vw;
+        position: relative;
+    }
+    
+    .slider__image {
+        object-fit: cover;
+        border-radius: 7px;
+        width: 90vw;
+    }
+
+    .slider .MuiSvgIcon-root {
+        font-size: 2rem;
+    }
+}
