@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4595fcf4.chunk.css",
+    "main.js": "/portfolio/static/js/main.9f969716.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.9f969716.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.498a4632.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.498a4632.js.map",
+    "static/js/2.a78be960.chunk.js": "/portfolio/static/js/2.a78be960.chunk.js",
+    "static/js/2.a78be960.chunk.js.map": "/portfolio/static/js/2.a78be960.chunk.js.map",
+    "static/js/3.9451dc52.chunk.js": "/portfolio/static/js/3.9451dc52.chunk.js",
+    "static/js/3.9451dc52.chunk.js.map": "/portfolio/static/js/3.9451dc52.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.4595fcf4.chunk.css.map": "/portfolio/static/css/main.4595fcf4.chunk.css.map",
+    "static/js/2.a78be960.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a78be960.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/portfolio/static/media/background.24355eed.png",
+    "static/media/discord-screen1.3130515e.jpg": "/portfolio/static/media/discord-screen1.3130515e.jpg",
+    "static/media/discord-screen2.539ab328.jpg": "/portfolio/static/media/discord-screen2.539ab328.jpg",
+    "static/media/discord.5632cb2c.jpg": "/portfolio/static/media/discord.5632cb2c.jpg",
+    "static/media/gameoflife.edd2c5ad.jpg": "/portfolio/static/media/gameoflife.edd2c5ad.jpg",
+    "static/media/gameoflifegif.8c61f44d.gif": "/portfolio/static/media/gameoflifegif.8c61f44d.gif",
+    "static/media/moovies-screen1.1bc024eb.jpg": "/portfolio/static/media/moovies-screen1.1bc024eb.jpg",
+    "static/media/moovies-screen2.b81b2315.jpg": "/portfolio/static/media/moovies-screen2.b81b2315.jpg",
+    "static/media/moovies-screen3.293cdc30.jpg": "/portfolio/static/media/moovies-screen3.293cdc30.jpg",
+    "static/media/moovies-screen4.6beee27f.jpg": "/portfolio/static/media/moovies-screen4.6beee27f.jpg",
+    "static/media/moovies-screen5.bd1fbb87.jpg": "/portfolio/static/media/moovies-screen5.bd1fbb87.jpg",
+    "static/media/moovies.048db1f9.jpg": "/portfolio/static/media/moovies.048db1f9.jpg",
+    "static/media/youtube-screen1.347632ce.jpg": "/portfolio/static/media/youtube-screen1.347632ce.jpg",
+    "static/media/youtube-screen2.5f6d6267.jpg": "/portfolio/static/media/youtube-screen2.5f6d6267.jpg",
+    "static/media/youtube.edf625e0.jpg": "/portfolio/static/media/youtube.edf625e0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.498a4632.js",
+    "static/js/2.a78be960.chunk.js",
+    "static/css/main.4595fcf4.chunk.css",
+    "static/js/main.9f969716.chunk.js"
+  ]
+}
